@@ -1,2 +1,2 @@
 # Advanced-Programming-Course
-Advanced C++ Programming
+My projects in Advanced C++ Programming course
